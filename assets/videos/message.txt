@@ -1,0 +1,25 @@
+**__A: Server rules__**
+
+**I: General rules**
+1. You must abide by the __Terms of Service__ of Discord when using it.
+2. __Appropriation for workplace__: any messages, profile pictures or custom statuses that convey sexual, ero guro styled or bloody imagery/words are not allowed in the server.
+3. __No advertisement__ outside channel <#939214009905868931>.
+4. __Don't__ attack other people or cause war. Do not cause annoyance to other people by purpose.
+
+**II: Keep the topic**
+1. Every channel have its own purpose, please use it __properly__. Keep messages and discussions in the correct channels.
+2. Minimize the usage of __bot command__ outside bot channels: You are only allowed to use bot command outside bot channels if it is related to the current conversation.
+3. __Do not spam__, include a or multiple individuals send multiple meaningless messages or send the same message over and over.
+4. Political and are not allowed outside <#953167745623658526>.
+5. Channel descriptions may contain __sub-rule__ of that channel only, please read the description of the channels before using it.
+6. __NSFW rules__:
+    a. Minimize using swearing/sexual words in SFW channels (recommend to ||spoiler|| the words)
+    b. Any kind of NSFW media are not allowed outside NSFW channels.
+    c. No NSFW media against Discord Terms of Service.
+
+**III: Be nice**
+1. __Pinging people__: try not to ping other people if the conversation is not relate to them.
+2. __Respect other people__: You should respect other people in any circumstances. Stop the annoyance actions if someone tell you to stop.
+3. __No racism__: using N-word or any other racism word in any form for the purpose is not allowed.
+4. __Cirno is innocent__: if Cirno bot violate the words-using rules, please forgive her/it. And please **Do not** imitate the violations.
+*latest update: 10:23, March 27th, 2022 UTC*

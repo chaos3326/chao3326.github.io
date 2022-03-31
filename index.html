@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Canvas</title>
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    <link rel="stylesheet" href="./assets/fonts/fontawesome-free-5.15.4-web/css/all.css">
+    <link rel="stylesheet" href="./assets/css/index.css"></link>
+</head>
+<body>
+    <div id="app">
+        <div id="header">
+            
+        </div>
+        <div id="content">
+            <div class="video-wrapper">
+                <video id="video1" src="./assets/videos/bigbunny.mp4" controls autoplay>
+                    Your browser does not support video tag.
+                </video>
+                <canvas id="video2">
+                    Your browser does not support canvas tag.
+                </canvas>
+            </div>
+            <div class="buttons">
+                <a data-prev="1" id="prev" class="button fas fa-angle-double-left">
+                    <span>Previous video</span>
+                </a>
+                <a id="video-link" href="https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onplay" class="button">
+                    Open video link
+                    <span>https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onplay</span>
+                </a>
+                <a href="#" class="button">
+                    View source code
+                </a>
+                <a data-prev="-1" id="next" class="button fas fa-angle-double-right">
+                    <span>Next video</span>
+                </a>
+            </div>
+        </div>
+        <div id="footer">
+            
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

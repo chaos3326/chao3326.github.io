@@ -1,0 +1,18 @@
+[
+    {
+        "file": "./assets/videos/bigbunny.mp4",
+        "source": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onplay"
+    },
+    {
+        "file": "./assets/videos/imperishable.mp4",
+        "source": "https://youtu.be/Zyvd-uX30ho"
+    },
+    {
+        "file": "./assets/videos/spaceship.mp4",
+        "source": "https://youtu.be/lK3kxQ1Gi1c"
+    },
+    {
+        "file": "./assets/videos/skillissue.mp4",
+        "source": "https://youtu.be/LCLN3hoBk5c"
+    }
+]
